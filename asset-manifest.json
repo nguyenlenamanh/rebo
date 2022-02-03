@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rebo/static/css/main.0414b800.css",
+    "main.js": "/rebo/static/js/main.6f3122d5.js",
+    "static/js/787.8cc3094e.chunk.js": "/rebo/static/js/787.8cc3094e.chunk.js",
+    "index.html": "/rebo/index.html",
+    "main.0414b800.css.map": "/rebo/static/css/main.0414b800.css.map",
+    "main.6f3122d5.js.map": "/rebo/static/js/main.6f3122d5.js.map",
+    "787.8cc3094e.chunk.js.map": "/rebo/static/js/787.8cc3094e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0414b800.css",
+    "static/js/main.6f3122d5.js"
+  ]
+}
